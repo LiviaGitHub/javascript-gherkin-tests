@@ -12,5 +12,6 @@
 ## [Run the tests] How to open and run the test
 1. Clone the project
 2. Go to project folder via terminal
-3. Execute: bundle init
-4. Execute: npm run cy:open
+3. Installed Node.js https://docs.cypress.io/guides/getting-started/installing-cypress#Hardware
+4. Installed Cypress https://docs.cypress.io/guides/getting-started/installing-cypress
+5. Execute: npm run cy:open
