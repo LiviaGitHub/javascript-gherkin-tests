@@ -4,13 +4,17 @@
     * Acceptance Criteria:
         - User should have a Metamask account.
         - A single sign-on (SSO) Metamask button must be available to connect to the Metamask account.
-        - User should be able to see a deposit address.
         - Display error message if service not responding.
+        - User should be able to see a deposit address.
 
 2. As a user of the faucet, I want to be able to receive test tokens without connecting my Metamask account to the faucet by simply entering my deposit address.
     * Acceptance Criteria:
         - A facucet address must be available, in the footer of the site, to copy and use it.  Example: [0x2352D20fC81225c8ECD8f6FaA1B37F24FEd450c9]
+        - A network to select must be available.
+        - A token to select must be available.
+        - User still has request available within 24 hours.
         - Display error message if service not available.
+        - A transaction ID link is generated.
 
 3. As a user of the faucet, I want my deposit address to be validated for correctness.
     * Acceptance Criteria:
@@ -19,6 +23,7 @@
         - A facucet address must be available to use it.  Example: [0x2352D20fC81225c8ECD8f6FaA1B37F24FEd450c9]
         - User still has request available within 24 hours.
         - Display error message if service not responding.
+        - A transaction ID link is generated.
 
 4. As an owner of the faucet, I want the numbers of the drops to be limited to 1 in 24hours.
     * Acceptance Criteria:
