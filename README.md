@@ -1,4 +1,4 @@
-# swissborg_test challenge
+# coins_test challenge
 
 ## Exercise 1
 1. Test an online factorial calculator website hosted on: http://qainterview.pythonanywhere.com/.
