@@ -1,4 +1,4 @@
-# coins_test challenge
+# Coins challenge
 
 ## Exercise 1
 1. Test an online factorial calculator website hosted on: http://qainterview.pythonanywhere.com/.
